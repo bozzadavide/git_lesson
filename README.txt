@@ -6,3 +6,4 @@ Questa riga è sul master
 Modifica al primo branch
 modifica su repository clonato
 altra modifica sul repository clonato
+riga fatta sul repository remoto
